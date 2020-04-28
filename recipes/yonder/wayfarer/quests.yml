@@ -3,19 +3,23 @@
   items:
     vine: 1
     stick: 3
+  quest: Making a Bundle
 
 - name: celium seed
   items:
     celium flower: 1
     stone: 1
+  quest: Farming basics
 
 - name: ghost fish stew
   items:
     ghost fish: 1
     mushroom: 1
     water: 1
+  quest: The Great Beard Off
 
 - name: trap
   items:
     twine: 1
     bundle of sticks: 2
+  quest: Trapping and trading
