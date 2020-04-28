@@ -1,0 +1,61 @@
+---
+- name: black-rimmed glasses
+  items:
+    tinker's kit: 1
+    constructor's kit: 1
+    black dye: 2
+    cogs: 1
+    bits and bobs: 1
+    silver ingot: 1
+    rivet: 1
+
+- name: lamp post
+  items:
+    tinker's kit: 1
+    gears: 2
+    cogs: 1
+    oil: 1
+    lead ingot: 2
+    silver ingot: 1
+
+- name: sunglasses
+  items:
+    tinker's kit: 1
+    constructor's kit: 1
+    yellow dye: 1
+    bits and bobs: 1
+    gold ingot: 2
+    rivet: 1
+    water: 1
+
+- name: tinker's breeches
+  items:
+    tinker's kit: 1
+    tailor's kit: 1
+    brown dye: 1
+    leather strips: 1
+    silk: 1
+    cloth: 1
+    leather: 1
+    haberdashery: 1
+
+- name: tinker's goggles
+  items:
+    tinker's kit: 1
+    constructor's kit: 1
+    leather strips: 1
+    copper ingot: 2
+    lead ingot: 1
+    glue: 1
+    rivet: 1
+
+- name: tinker's jacket
+  items:
+    tinker's kit: 1
+    tailor's kit: 1
+    orange dye: 1
+    blue dye: 1
+    leather strips: 1
+    haberdashery: 1
+    silk: 1
+    cloth: 1

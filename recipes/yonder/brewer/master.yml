@@ -1,0 +1,69 @@
+---
+- name: ash shampoo
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    water: 1
+    black dye: 1
+    white dye: 1
+    silver ingot: 1
+
+- name: brown dye
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    orange dye: 1
+    blue dye: 1
+
+- name: brown shampoo
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    water: 1
+    brown dye: 2
+
+- name: copper shampoo
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    water: 1
+    orange dye: 1
+    brown dye: 1
+    copper ingot: 1
+
+- name: green dye
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    blue dye: 1
+    yellow dye: 1
+
+- name: green firework
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    coal: 1
+    vine: 1
+    green dye: 2
+
+- name: orange dye
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    yellow dye: 1
+    red dye: 1
+
+- name: pink dye
+  items:
+    brewer's kit: 1
+    clay pot: 1
+    red dye: 1
+    white dye: 1
+    moonsilk flower: 1
+
+- name: purple dye
+  items:
+    brewer's kit: 1
+    red dye: 1
+    blue dye: 1
+    moonsilk flower: 1

@@ -1,0 +1,94 @@
+---
+- name: field hat
+  items:
+    carpenter's kit: 1
+    tailor's kit: 1
+    brown dye: 1
+    hide: 2
+    pelt: 1
+    twine: 1
+    haberdashery: 1
+
+- name: garden plot
+  items:
+    carpenter's kit: 1
+    glue: 1
+    clay: 2
+    water: 1
+    shaped planks: 2
+    wood arch: 1
+
+- name: shaped planks
+  items:
+    carpenter's kit: 1
+    plank: 3
+    glue: 1
+
+- name: shepherd's braccae
+  items:
+    carpenter's kit: 1
+    tailor's kit: 1
+    brown dye: 1
+    leather strips: 1
+    pelt: 1
+    cloth: 1
+    leather: 1
+    haberdashery: 1
+
+- name: shepherd's smock
+  items:
+    carpenter's kit: 1
+    tailor's kit: 1
+    yellow dye: 1
+    leather strips: 1
+    hide: 1
+    cloth: 1
+    leather: 1
+    haberdashery: 1
+
+- name: tree plot
+  items:
+    carpenter's kit: 1
+    nails: 1
+    shaped planks: 1
+    wood arch: 1
+    stone: 2
+    wood: 1
+    stick: 1
+
+- name: wood arch
+  items:
+    carpenter's kit: 1
+    wood: 3
+    plank: 1
+    shaped planks: 1
+
+- name: wood box planter
+  items:
+    carpenter's kit: 1
+    glue: 1
+    plank: 1
+    shaped planks: 1
+    clay: 1
+    mystery seed: 3
+
+- name: wooden fence
+  items:
+    carpenter's kit: 1
+    nails: 1
+    shaped planks: 1
+    wood beams: 1
+    wood arch: 1
+    wood: 1
+    plank: 1
+    stick: 1
+
+- name: wooden lamp post
+  items:
+    carpenter's kit: 1
+    nails: 1
+    wooden beams: 1
+    wood tiles: 1
+    shaped planks: 2
+    glue: 1
+    coal: 1
