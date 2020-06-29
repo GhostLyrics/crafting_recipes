@@ -1,0 +1,13 @@
+---
+- name: Bucket
+  items:
+    Wood: 2
+
+- name: Resin Float
+  items:
+    Resin: 1
+    Wood: 1
+
+- name: Rope
+  items:
+    Thread: 2

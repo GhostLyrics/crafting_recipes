@@ -1,0 +1,21 @@
+---
+- name: Chicken Coop
+  items:
+    Board: 8
+    Metal: 2
+    Nail: 3
+
+- name: Fire
+  items:
+    Wood: 3
+    Coal: 2
+
+- name: Rustic Fence
+  items:
+    Wood: 4
+
+- name: Well
+  items:
+    Bucket: 1
+    Stone: 10
+    Wood: 8

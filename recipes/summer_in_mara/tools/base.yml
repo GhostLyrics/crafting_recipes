@@ -1,0 +1,19 @@
+---
+- name: Axe
+  items:
+    Wood: 3
+    Stone: 1
+
+- name: Metal Hammer
+  items:
+    Wood: 3
+    Metal: 2
+
+- name: Torch
+  items:
+    Wood: 1
+
+- name: Wooden Rod
+  items:
+    Wood: 3
+    Resin Float: 1

@@ -1,0 +1,25 @@
+---
+- name: Blackberry Juice
+  items:
+    Blackberry: 3
+
+- name: Grilled Fish
+  items:
+    Flatfish: 1
+    Prawn: 1
+    Wood: 1
+
+- name: Orange Jam
+  items:
+    Orange: 1
+    Sugar: 1
+
+- name: Orange Juice
+  items:
+    Orange: 3
+    Carrot: 1
+
+- name: Yummy Fish?
+  items:
+    Redtail Catfish: 1
+    Carrot: 2
