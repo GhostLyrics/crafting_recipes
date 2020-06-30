@@ -1,4 +1,10 @@
 ---
+- name: Boat
+  items:
+    Oars: 2
+    Wood: 6
+    Metal: 4
+
 - name: Chicken Coop
   items:
     Board: 8

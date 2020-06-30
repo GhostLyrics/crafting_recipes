@@ -1,7 +1,16 @@
 ---
+- name: Board
+  items:
+    Wood: 2
+
 - name: Bucket
   items:
     Wood: 2
+
+- name: Oars
+  items:
+    Wood: 2
+    Board: 1
 
 - name: Resin Float
   items:
